@@ -8,13 +8,12 @@ customers.csv -> Customer information and country
 *	Date: Fri 1st November 2019
 *
 *	Project name: test
-*	Main Scala file: 	test/src/main/scala/bigdata/rddchallenge.scala
-*	Input CSV files:	target/src/main/resources/datasets
-*	Output CSV files: 	target/output_destination      !!!! These are the results !!!!!!!
-*	Jar files:		test/target/test-1.0-SNAPSHOT-jar-with-dependency.jar	created using 'mvn package' from local terminal
-*	Shell file		test/shell-script		!!! runs successfully !!!
-*	The dependencies to produce fat jar are included in pom.xml. The fat jar is already generated. 
-*	If you want to regenerate the fat jar please do not use mvn clean as this will delete input csv files in target folder.
+*	Main Scala file: 	/src/main/scala/bigdata/rddchallenge.scala
+*	Input CSV files:	/src/main/resources/datasets
+*	Output CSV files: 	/output_destination      !!!! These are the results !!!!!!!
+*	Jar files:		/test-1.0-SNAPSHOT-jar-with-dependency.jar	created using 'mvn package' from local terminal
+*	Shell file		shell-script		
+
 *	
 *
 *	Java JDK version: 1.8.0_231
