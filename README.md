@@ -4,7 +4,7 @@ currency.csv -> currency rates
 transactions.csv -> all the transactions made
 customers.csv -> Customer information and country
 
-*	by Christian Grech (interviewing for Machine Learning Engineer)
+*	by Christian Grech 
 *	Date: Fri 1st November 2019
 *
 *	Project name: test
