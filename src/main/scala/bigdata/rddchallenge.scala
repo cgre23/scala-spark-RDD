@@ -1,4 +1,4 @@
-/*      Big Data Engineering Code Challenge for Betsson Group Malta
+/*      Big Data Engineering Code Challenge
 *       by Christian Grech
 *       Disclaimer: This is my first time using Scala, so even though the challenge was delivered I understand that
 *                   there is room for improvement in make the code more efficient.
